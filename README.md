@@ -6,5 +6,5 @@
 
 <!---
 Highkey-giveaway/Highkey-giveaway is a✨ special ✨ repository because its `among the lucky winners who won the HIGHKEY 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 $10,000 𝐎𝐅 𝐓𝐇𝐄 𝐘𝐄𝐀𝐑! 🎉🎊🍾🍾..md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at 
 --->
